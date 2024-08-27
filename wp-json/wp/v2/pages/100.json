@@ -1,1 +1,131 @@
-{"id":100,"date":"2021-05-24T12:55:49","date_gmt":"2021-05-24T12:55:49","guid":{"rendered":"http:\/\/greeneye.ag\/?page_id=100"},"modified":"2024-04-18T09:16:17","modified_gmt":"2024-04-18T09:16:17","slug":"about","status":"publish","type":"page","link":"https:\/\/greeneye.ag\/about\/","title":{"rendered":"About Us"},"content":{"rendered":"","protected":false},"excerpt":{"rendered":"","protected":false},"author":1,"featured_media":0,"parent":0,"menu_order":0,"comment_status":"closed","ping_status":"closed","template":"page_templates\/template-sections.php","meta":{"content-type":"","footnotes":""},"class_list":["post-100","page","type-page","status-publish","hentry"],"yoast_head":"<!-- This site is optimized with the Yoast SEO plugin v18.9 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Greeneye Technology\u2122 - About Us<\/title>\n<meta name=\"description\" content=\"Greeneye provides an alternative and sustainable solution for the current crop protection practice in order to meet the globally growing demand for food while increasing the profitability and productivity for farmers.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/greeneye.ag\/about\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Greeneye Technology\u2122 - About Us\" \/>\n<meta property=\"og:description\" content=\"Greeneye provides an alternative and sustainable solution for the current crop protection practice in order to meet the globally growing demand for food while increasing the profitability and productivity for farmers.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/greeneye.ag\/about\/\" \/>\n<meta property=\"og:site_name\" content=\"Greeneye Technology\u2122\" \/>\n<meta property=\"article:modified_time\" content=\"2024-04-18T09:16:17+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\/\/greeneye.ag\/#website\",\"url\":\"https:\/\/greeneye.ag\/\",\"name\":\"Greeneye Technology\u2122\",\"description\":\"Spray Less, Grow More\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/greeneye.ag\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/greeneye.ag\/about\/#webpage\",\"url\":\"https:\/\/greeneye.ag\/about\/\",\"name\":\"Greeneye Technology\u2122 - About Us\",\"isPartOf\":{\"@id\":\"https:\/\/greeneye.ag\/#website\"},\"datePublished\":\"2021-05-24T12:55:49+00:00\",\"dateModified\":\"2024-04-18T09:16:17+00:00\",\"description\":\"Greeneye provides an alternative and sustainable solution for the current crop protection practice in order to meet the globally growing demand for food while increasing the profitability and productivity for farmers.\",\"breadcrumb\":{\"@id\":\"https:\/\/greeneye.ag\/about\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/greeneye.ag\/about\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/greeneye.ag\/about\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/greeneye.ag\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"About Us\"}]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->","yoast_head_json":{"title":"Greeneye Technology\u2122 - About Us","description":"Greeneye provides an alternative and sustainable solution for the current crop protection practice in order to meet the globally growing demand for food while increasing the profitability and productivity for farmers.","robots":{"index":"index","follow":"follow","max-snippet":"max-snippet:-1","max-image-preview":"max-image-preview:large","max-video-preview":"max-video-preview:-1"},"canonical":"https:\/\/greeneye.ag\/about\/","og_locale":"en_US","og_type":"article","og_title":"Greeneye Technology\u2122 - About Us","og_description":"Greeneye provides an alternative and sustainable solution for the current crop protection practice in order to meet the globally growing demand for food while increasing the profitability and productivity for farmers.","og_url":"https:\/\/greeneye.ag\/about\/","og_site_name":"Greeneye Technology\u2122","article_modified_time":"2024-04-18T09:16:17+00:00","twitter_card":"summary_large_image","schema":{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/greeneye.ag\/#website","url":"https:\/\/greeneye.ag\/","name":"Greeneye Technology\u2122","description":"Spray Less, Grow More","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/greeneye.ag\/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/greeneye.ag\/about\/#webpage","url":"https:\/\/greeneye.ag\/about\/","name":"Greeneye Technology\u2122 - About Us","isPartOf":{"@id":"https:\/\/greeneye.ag\/#website"},"datePublished":"2021-05-24T12:55:49+00:00","dateModified":"2024-04-18T09:16:17+00:00","description":"Greeneye provides an alternative and sustainable solution for the current crop protection practice in order to meet the globally growing demand for food while increasing the profitability and productivity for farmers.","breadcrumb":{"@id":"https:\/\/greeneye.ag\/about\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/greeneye.ag\/about\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/greeneye.ag\/about\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/greeneye.ag\/"},{"@type":"ListItem","position":2,"name":"About Us"}]}]}},"_links":{"self":[{"href":"https:\/\/greeneye.ag\/wp-json\/wp\/v2\/pages\/100"}],"collection":[{"href":"https:\/\/greeneye.ag\/wp-json\/wp\/v2\/pages"}],"about":[{"href":"https:\/\/greeneye.ag\/wp-json\/wp\/v2\/types\/page"}],"author":[{"embeddable":true,"href":"https:\/\/greeneye.ag\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"https:\/\/greeneye.ag\/wp-json\/wp\/v2\/comments?post=100"}],"version-history":[{"count":40,"href":"https:\/\/greeneye.ag\/wp-json\/wp\/v2\/pages\/100\/revisions"}],"predecessor-version":[{"id":2155,"href":"https:\/\/greeneye.ag\/wp-json\/wp\/v2\/pages\/100\/revisions\/2155"}],"wp:attachment":[{"href":"https:\/\/greeneye.ag\/wp-json\/wp\/v2\/media?parent=100"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+{
+  "id": 100,
+  "date": "2021-05-24T12:55:49",
+  "date_gmt": "2021-05-24T12:55:49",
+  "guid": { "rendered": "http://SoilScan.co.ke/?page_id=100" },
+  "modified": "2024-04-18T09:16:17",
+  "modified_gmt": "2024-04-18T09:16:17",
+  "slug": "about",
+  "status": "publish",
+  "type": "page",
+  "link": "https://SoilScan.co.ke/about/",
+  "title": { "rendered": "About Us" },
+  "content": { "rendered": "", "protected": false },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "page_templates/template-sections.php",
+  "meta": { "content-type": "", "footnotes": "" },
+  "class_list": ["post-100", "page", "type-page", "status-publish", "hentry"],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.9 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>SoilScan Technology\u2122 - About Us</title>\n<meta name=\"description\" content=\"SoilScan provides an alternative and sustainable solution for the current crop protection practice in order to meet the globally growing demand for food while increasing the profitability and productivity for farmers.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://SoilScan.co.ke/about/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"SoilScan Technology\u2122 - About Us\" />\n<meta property=\"og:description\" content=\"SoilScan provides an alternative and sustainable solution for the current crop protection practice in order to meet the globally growing demand for food while increasing the profitability and productivity for farmers.\" />\n<meta property=\"og:url\" content=\"https://SoilScan.co.ke/about/\" />\n<meta property=\"og:site_name\" content=\"SoilScan Technology\u2122\" />\n<meta property=\"article:modified_time\" content=\"2024-04-18T09:16:17+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://SoilScan.co.ke/#website\",\"url\":\"https://SoilScan.co.ke/\",\"name\":\"SoilScan Technology\u2122\",\"description\":\"Spray Less, Grow More\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://SoilScan.co.ke/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://SoilScan.co.ke/about/#webpage\",\"url\":\"https://SoilScan.co.ke/about/\",\"name\":\"SoilScan Technology\u2122 - About Us\",\"isPartOf\":{\"@id\":\"https://SoilScan.co.ke/#website\"},\"datePublished\":\"2021-05-24T12:55:49+00:00\",\"dateModified\":\"2024-04-18T09:16:17+00:00\",\"description\":\"SoilScan provides an alternative and sustainable solution for the current crop protection practice in order to meet the globally growing demand for food while increasing the profitability and productivity for farmers.\",\"breadcrumb\":{\"@id\":\"https://SoilScan.co.ke/about/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://SoilScan.co.ke/about/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://SoilScan.co.ke/about/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://SoilScan.co.ke/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"About Us\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "SoilScan Technology\u2122 - About Us",
+    "description": "SoilScan provides an alternative and sustainable solution for the current crop protection practice in order to meet the globally growing demand for food while increasing the profitability and productivity for farmers.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://SoilScan.co.ke/about/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "SoilScan Technology\u2122 - About Us",
+    "og_description": "SoilScan provides an alternative and sustainable solution for the current crop protection practice in order to meet the globally growing demand for food while increasing the profitability and productivity for farmers.",
+    "og_url": "https://SoilScan.co.ke/about/",
+    "og_site_name": "SoilScan Technology\u2122",
+    "article_modified_time": "2024-04-18T09:16:17+00:00",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://SoilScan.co.ke/#website",
+          "url": "https://SoilScan.co.ke/",
+          "name": "SoilScan Technology\u2122",
+          "description": "Spray Less, Grow More",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://SoilScan.co.ke/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://SoilScan.co.ke/about/#webpage",
+          "url": "https://SoilScan.co.ke/about/",
+          "name": "SoilScan Technology\u2122 - About Us",
+          "isPartOf": { "@id": "https://SoilScan.co.ke/#website" },
+          "datePublished": "2021-05-24T12:55:49+00:00",
+          "dateModified": "2024-04-18T09:16:17+00:00",
+          "description": "SoilScan provides an alternative and sustainable solution for the current crop protection practice in order to meet the globally growing demand for food while increasing the profitability and productivity for farmers.",
+          "breadcrumb": { "@id": "https://SoilScan.co.ke/about/#breadcrumb" },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            { "@type": "ReadAction", "target": ["https://SoilScan.co.ke/about/"] }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://SoilScan.co.ke/about/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://SoilScan.co.ke/"
+            },
+            { "@type": "ListItem", "position": 2, "name": "About Us" }
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "https://SoilScan.co.ke/wp-json/wp/v2/pages/100" }],
+    "collection": [{ "href": "https://SoilScan.co.ke/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://SoilScan.co.ke/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://SoilScan.co.ke/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://SoilScan.co.ke/wp-json/wp/v2/comments?post=100"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 40,
+        "href": "https://SoilScan.co.ke/wp-json/wp/v2/pages/100/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 2155,
+        "href": "https://SoilScan.co.ke/wp-json/wp/v2/pages/100/revisions/2155"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://SoilScan.co.ke/wp-json/wp/v2/media?parent=100" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
